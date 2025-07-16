@@ -1,6 +1,5 @@
 !pip install tensorflow
 !pip install PIL
-!pip install numpy
 import streamlit as st
 import tensorflow as tf
 import numpy as np
